@@ -4,7 +4,7 @@ class DeleteNodeAtGivenKey
 	static class Node{ 
 		int data;
 		Node next;
-		Node(int d)Node{
+		Node(int d)
 		{
 			data = d;
 			next = null;
