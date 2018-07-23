@@ -1,7 +1,7 @@
 class DeleteNodeAtGivenKey
 {
 	Node head;
-	static class 
+	static class Node{
 		int data;
 		Node next;
 		Node(int d)
